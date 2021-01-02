@@ -110,12 +110,6 @@ footer {
 
 @media (min-width: 480px)  {
 /*-----------container------------------*/
-.container {
-
- background-image: url("bg-intro.svg");
-
-}
-
 /*----------navbar--------------*/
 .logo {
   position: absolute;
